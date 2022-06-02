@@ -1,0 +1,15 @@
+.w-40 {
+  width: 40%;
+}
+.w-60 {
+  width: 60%;
+}
+.label {
+  width: 200px;
+}
+
+.color-button-wrapper {
+  button:not(:last-child) {
+    margin-right: 8px
+  }
+}
